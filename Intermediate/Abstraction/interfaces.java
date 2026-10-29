@@ -1,4 +1,4 @@
-package Intermediate;
+package Intermediate.Abstraction;
 
 
 interface Car{
@@ -25,7 +25,7 @@ public class interfaces {
 
         obj.start();
         obj1.start();
-        
+
     }
     
 }

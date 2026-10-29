@@ -1,4 +1,4 @@
-package Intermediate;
+package Intermediate.Abstraction;
 
 abstract class Car{
     public abstract void fly();
